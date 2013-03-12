@@ -17,7 +17,7 @@
 #   Let's be honest, OO in Fortran is a uncredible mess:
 # creating binary modules which are _required_ by other _source_ files,
 # having problems with circular dependencies between types,
-# ensuring backwards compatibility by the standard to "stamp card F77 code",
+# ensuring backwards compatibility by the standard to "punch card F77 code",
 # ... does not look like a "by-design" well suited language for OOP and generic
 # programming. Anywany, since Fortran projects grow big, we may like to
 # compile them in parallel to save some live-time, and therefore we need
